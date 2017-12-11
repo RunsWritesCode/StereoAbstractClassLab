@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StereoAbstractClasses.iml" filepath="$PROJECT_DIR$/.idea/modules/StereoAbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StereoAbstractClasses_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StereoAbstractClasses_main.iml" group="StereoAbstractClasses" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StereoAbstractClasses_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StereoAbstractClasses_test.iml" group="StereoAbstractClasses" />
+    </modules>
+  </component>
+</project>
